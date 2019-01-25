@@ -1,0 +1,25 @@
+.body{
+    font-family: 'Baloo Thambi', cursive;
+}
+.carousel-caption {
+    color: black;
+    top: 20px;
+    size: 200px;
+    position: left;
+}
+
+.carousel-item img{
+    height: 500px;
+}
+
+.header{
+    background-color: goldenrod
+}
+
+.bg-dark {
+    background-color: important;;
+}
+
+.col-sm-4 {
+    width: 100%
+}
