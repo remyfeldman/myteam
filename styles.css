@@ -20,6 +20,10 @@
     background-color: important;;
 }
 
-.col-sm-4 {
+.col-sm-4 img {
     width: 100%
+}
+
+.lower {
+    margin-top: 20px;
 }
